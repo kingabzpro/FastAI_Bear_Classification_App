@@ -1,4 +1,4 @@
-voila==0.2.0
+voila==0.1.21
 fastai2>=0.0.5
 Pillow>=8.2.0
 packaging
